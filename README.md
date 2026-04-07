@@ -18,3 +18,6 @@ Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%208/dsa-8-stacks-queues-deques.ipynb)
 
+Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%209/dsa-9-linked_lists.ipynb)
+
+
