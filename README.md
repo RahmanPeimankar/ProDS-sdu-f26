@@ -20,4 +20,6 @@ Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%209/dsa-9-linked_lists.ipynb)
 
+Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%2010/dsa-10-merge-sort.ipynb)
+
 
